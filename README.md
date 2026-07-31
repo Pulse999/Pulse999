@@ -1,5 +1,5 @@
 Hey 👋, I'm Themba.
-Software Engineer 🧑‍💻 • Azure Developer ☁️
+## Software Engineer 🧑‍💻 • Azure Developer ☁️
 
 I'm a Software Engineering student and Microsoft Certified Azure Developer with a passion for
 building cloud-first applications that are scalable, secure and practical. I specialize in Azure
