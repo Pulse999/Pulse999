@@ -27,7 +27,7 @@ I'd love to hear your feedback, and I'm always open to collaborating on exciting
 | 🏅 Azure Data Fundamentals (DP-900) | ✅ ⭐ |
 | 🏅 Azure Fundamentals (AZ-900) | ✅ ⭐ | 
 | 🏅 Azure Developer Associate (AZ-204) | ✅ ⭐⭐ | 
-| 🚧 DevOps Engineer Expert (AZ-400) | In Progress |
+| 🚧 DevOps Engineer Expert (AZ-400) | In Progress ⌛ |
 
 <!--
 **Pulse999/Pulse999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
