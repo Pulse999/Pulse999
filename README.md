@@ -24,9 +24,9 @@ I'd love to hear your feedback, and I'm always open to collaborating on exciting
 
 | Certification | Status |
 |---------------|--------|
-| 🏅 Azure Data Fundamentals (DP-900) | ✅ |⭐
-| 🏅 Azure Fundamentals (AZ-900) | ✅ | ⭐
-| 🏅 Azure Developer Associate (AZ-204) | ✅ | ⭐⭐
+| 🏅 Azure Data Fundamentals (DP-900) | ✅ |⭐|
+| 🏅 Azure Fundamentals (AZ-900) | ✅ | ⭐|
+| 🏅 Azure Developer Associate (AZ-204) | ✅ | ⭐⭐|
 | 🚧 DevOps Engineer Expert (AZ-400) | In Progress |
 
 <!--
