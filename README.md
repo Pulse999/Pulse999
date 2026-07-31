@@ -10,6 +10,16 @@ I enjoy solving real-world problems through clean architecture, automation and t
 My current focus is expanding my DevOps expertise as I work toward the Microsoft Certified DevOps Engineer Expert (AZ-400), 
 building production-ready solutions with CI/CD, Infrastructure as Code and the Azure ecosystem.
 
+## 🌐 Explore My Portfolio
+
+Want to see what I've been building?
+
+My portfolio showcases my featured projects, technical skills, certifications, and the cloud solutions I've been developing with Microsoft Azure.
+
+🔗 **Portfolio:** https://themba-kene-io.vercel.app
+
+I'd love to hear your feedback, and I'm always open to collaborating on exciting projects.
+
 <!--
 **Pulse999/Pulse999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
