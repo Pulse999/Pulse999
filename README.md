@@ -1,4 +1,5 @@
 Hey 👋, I'm Themba.
+
 ## Software Engineer 🧑‍💻 • Azure Developer ☁️
 
 I'm a Software Engineering student and Microsoft Certified Azure Developer with a passion for
@@ -6,9 +7,31 @@ building cloud-first applications that are scalable, secure and practical. I spe
 and full-stack development, creating modern web applications, APIs and cloud-native solutions using
 .NET, React, JavaScript, Python and SQL.
 
-I enjoy solving real-world problems through clean architecture, automation and thoughtful engineering. 
-My current focus is expanding my DevOps expertise as I work toward the Microsoft Certified DevOps Engineer Expert (AZ-400), 
+I enjoy solving real-world problems through clean architecture, automation and thoughtful engineering.
+My current focus is expanding my DevOps expertise as I work toward the Microsoft Certified DevOps Engineer Expert (AZ-400),
 building production-ready solutions with CI/CD, Infrastructure as Code and the Azure ecosystem.
+
+## 🛠️ Technologies Used
+
+### ☁️ Cloud & Development Platforms
+
+* Microsoft Azure
+* GitHub
+
+### 💻 Programming Languages & Frameworks
+
+* Python
+* JavaScript
+* React
+* Java
+* .NET
+* C#
+
+### 🗄️ Databases
+
+* SQL
+* PostgreSQL
+* MongoDB
 
 ## 🌐 Explore My Portfolio
 
@@ -22,12 +45,12 @@ I'd love to hear your feedback, and I'm always open to collaborating on exciting
 
 ## ☁️ Microsoft Certified
 
-| Certification | Status |
-|---------------|--------|
-| 🏅 Azure Data Fundamentals (DP-900) | ✅ ⭐ |
-| 🏅 Azure Fundamentals (AZ-900) | ✅ ⭐ | 
-| 🏅 Azure Developer Associate (AZ-204) | ✅ ⭐⭐ | 
-| 🚧 DevOps Engineer Expert (AZ-400) | In Progress ⌛ |
+| Certification                         | Status        |
+| ------------------------------------- | ------------- |
+| 🏅 Azure Data Fundamentals (DP-900)   | ✅ ⭐           |
+| 🏅 Azure Fundamentals (AZ-900)        | ✅ ⭐           |
+| 🏅 Azure Developer Associate (AZ-204) | ✅ ⭐⭐          |
+| 🚧 DevOps Engineer Expert (AZ-400)    | In Progress ⌛ |
 
 <!--
 **Pulse999/Pulse999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
