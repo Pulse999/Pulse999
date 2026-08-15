@@ -15,31 +15,31 @@ building production-ready solutions with CI/CD, Infrastructure as Code and the A
 
 ![Microsoft](https://img.shields.io/badge/MICROSOFT-555555?style=flat-square&logo=microsoft&logoColor=white) ![PLATFORM](https://img.shields.io/badge/PLATFORM-555555?style=flat-square)
 
-![Azure](https://img.shields.io/badge/AZURE-555555?style=flat-square&logo=microsoftazure&logoColor=white) ![CLOUD](https://img.shields.io/badge/CLOUD-0078D4?style=flat-square)
+[Azure](https://img.shields.io/badge/AZURE-555555?style=flat-square&logo=microsoftazure&logoColor=white) ![CLOUD](https://img.shields.io/badge/CLOUD-0078D4?style=flat-square)
 
-![Azure Storage](https://img.shields.io/badge/AZURE_STORAGE-555555?style=flat-square&logo=microsoftazure&logoColor=white) ![CLOUD](https://img.shields.io/badge/CLOUD-0078D4?style=flat-square)
+[Azure Storage](https://img.shields.io/badge/AZURE_STORAGE-555555?style=flat-square&logo=microsoftazure&logoColor=white) ![CLOUD](https://img.shields.io/badge/CLOUD-0078D4?style=flat-square)
 
-![Azure Networking](https://img.shields.io/badge/AZURE_NETWORKING-555555?style=flat-square&logo=microsoftazure&logoColor=white) ![CLOUD](https://img.shields.io/badge/CLOUD-0078D4?style=flat-square)
+[Azure Networking](https://img.shields.io/badge/AZURE_NETWORKING-555555?style=flat-square&logo=microsoftazure&logoColor=white) ![CLOUD](https://img.shields.io/badge/CLOUD-0078D4?style=flat-square)
 
-![GitHub](https://img.shields.io/badge/GITHUB-555555?style=flat-square&logo=github&logoColor=white) ![VERSION_CONTROL](https://img.shields.io/badge/VERSION_CONTROL-181717?style=flat-square)
+[GitHub](https://img.shields.io/badge/GITHUB-555555?style=flat-square&logo=github&logoColor=white) ![VERSION_CONTROL](https://img.shields.io/badge/VERSION_CONTROL-181717?style=flat-square)
 
-![Python](https://img.shields.io/badge/PYTHON-555555?style=flat-square&logo=python&logoColor=white) ![LANGUAGE](https://img.shields.io/badge/LANGUAGE-3776AB?style=flat-square)
+[Python](https://img.shields.io/badge/PYTHON-555555?style=flat-square&logo=python&logoColor=white) ![LANGUAGE](https://img.shields.io/badge/LANGUAGE-3776AB?style=flat-square)
 
-![React](https://img.shields.io/badge/REACT-555555?style=flat-square&logo=react&logoColor=white) ![FRONTEND](https://img.shields.io/badge/FRONTEND-61DAFB?style=flat-square)
+[React](https://img.shields.io/badge/REACT-555555?style=flat-square&logo=react&logoColor=white) ![FRONTEND](https://img.shields.io/badge/FRONTEND-61DAFB?style=flat-square)
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-555555?style=flat-square&logo=javascript&logoColor=white) ![LANGUAGE](https://img.shields.io/badge/LANGUAGE-F7DF1E?style=flat-square)
+[JavaScript](https://img.shields.io/badge/JAVASCRIPT-555555?style=flat-square&logo=javascript&logoColor=white) ![LANGUAGE](https://img.shields.io/badge/LANGUAGE-F7DF1E?style=flat-square)
 
-![Java](https://img.shields.io/badge/JAVA-555555?style=flat-square&logo=openjdk&logoColor=white) ![LANGUAGE](https://img.shields.io/badge/LANGUAGE-ED8B00?style=flat-square)
+[Java](https://img.shields.io/badge/JAVA-555555?style=flat-square&logo=openjdk&logoColor=white) ![LANGUAGE](https://img.shields.io/badge/LANGUAGE-ED8B00?style=flat-square)
 
-![.NET](https://img.shields.io/badge/.NET-555555?style=flat-square&logo=dotnet&logoColor=white) ![FRAMEWORK](https://img.shields.io/badge/FRAMEWORK-512BD4?style=flat-square)
+[.NET](https://img.shields.io/badge/.NET-555555?style=flat-square&logo=dotnet&logoColor=white) ![FRAMEWORK](https://img.shields.io/badge/FRAMEWORK-512BD4?style=flat-square)
 
-![C%23](https://img.shields.io/badge/C%23-555555?style=flat-square&logo=csharp&logoColor=white) ![LANGUAGE](https://img.shields.io/badge/LANGUAGE-512BD4?style=flat-square)
+[C%23](https://img.shields.io/badge/C%23-555555?style=flat-square&logo=csharp&logoColor=white) ![LANGUAGE](https://img.shields.io/badge/LANGUAGE-512BD4?style=flat-square)
 
-![SQL](https://img.shields.io/badge/SQL-555555?style=flat-square&logo=sqlite&logoColor=white) ![DATABASE](https://img.shields.io/badge/DATABASE-CC2927?style=flat-square)
+[SQL](https://img.shields.io/badge/SQL-555555?style=flat-square&logo=sqlite&logoColor=white) ![DATABASE](https://img.shields.io/badge/DATABASE-CC2927?style=flat-square)
 
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-555555?style=flat-square&logo=postgresql&logoColor=white) ![DATABASE](https://img.shields.io/badge/DATABASE-4169E1?style=flat-square)
+[PostgreSQL](https://img.shields.io/badge/POSTGRESQL-555555?style=flat-square&logo=postgresql&logoColor=white) ![DATABASE](https://img.shields.io/badge/DATABASE-4169E1?style=flat-square)
 
-![MongoDB](https://img.shields.io/badge/MONGODB-555555?style=flat-square&logo=mongodb&logoColor=white) ![DATABASE](https://img.shields.io/badge/DATABASE-47A248?style=flat-square)
+[MongoDB](https://img.shields.io/badge/MONGODB-555555?style=flat-square&logo=mongodb&logoColor=white) ![DATABASE](https://img.shields.io/badge/DATABASE-47A248?style=flat-square)
 
 
 ## 🌐 Explore My Portfolio
