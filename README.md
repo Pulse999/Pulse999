@@ -26,7 +26,7 @@ My portfolio showcases my featured projects, technical skills, certifications, a
 
 I'd love to hear your feedback, and I'm always open to collaborating on exciting projects.
 
-## ☁️ Microsoft Certified
+## ☁️ Microsoft and Pearson Certified
 
 | Certification                         | Status        |
 | ------------------------------------- | ------------- |
