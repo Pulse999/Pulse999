@@ -57,6 +57,7 @@ building production-ready solutions with CI/CD, Infrastructure as Code and the A
 
 <p align="center">
   <img src="https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/FLASK-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white" />
