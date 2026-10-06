@@ -30,9 +30,11 @@ I'd love to hear your feedback, and I'm always open to collaborating on exciting
 
 | Certification                         | Status        |
 | ------------------------------------- | ------------- |
+| 🏅 IT Specialist in HTML & CSS        | 🌐 [Verify](https://www.certiport.com/portal/pages/credentialverification.aspx?code=wCdSm-48eh)      |
+| 🏅 IT Specialist in JavaScript        | ⚡ [Verify](https://www.certiport.com/portal/pages/credentialverification.aspx?code=dQWx-DwVM)      |
 | 🏅 Azure Data Fundamentals (DP-900)   |  ⭐ [Verify](https://learn.microsoft.com/api/credentials/share/en-us/ThembaKene-6119/64489220481CBB4C?sharingId=D2BB0101B07212E1)      |
 | 🏅 Azure Fundamentals (AZ-900)        |  ⭐ [Verify](https://learn.microsoft.com/api/credentials/share/en-us/ThembaKene-6119/A855CAE63CFC4660?sharingId=D2BB0101B07212E1)      |
-| 🏅 Azure Developer Associate (AZ-204) |  ⭐⭐ [Verify](https://learn.microsoft.com/api/credentials/share/en-us/ThembaKene-6119/D43B271E3F5D1F9A?sharingId=D2BB0101B07212E1)        |
+| 🏅 Azure Developer Associate (AZ-204) |  ⭐⭐ [Verify](https://learn.microsoft.com/api/credentials/share/en-us/ThembaKene-6119/D43B271E3F5D1F9A?sharingId=D2BB0101B07212E1)    |
 | 🚧 DevOps Engineer Expert (AZ-400)    | In Progress ⌛ |
 
 <!--
