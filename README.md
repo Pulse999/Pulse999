@@ -4,7 +4,7 @@
 
 ## Software Engineer 🧑‍💻 • Azure Developer ☁️
 
-I'm a Software Engineering student and Microsoft Certified Azure Developer with a passion for  
+Full Stack Software Engineer and Microsoft Certified Azure Developer with a passion for  
 building cloud-first applications that are scalable, secure and practical. I specialize in Azure  
 and full-stack development, creating modern web applications, APIs and cloud-native solutions using  
 .NET, React, JavaScript, Python and SQL.
